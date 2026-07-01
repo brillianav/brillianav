@@ -148,8 +148,11 @@ Make it maintainable.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brillianav&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=475569" width="49%" alt="Brillian AV GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brillianav&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=475569" width="49%" alt="Brillian AV top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=brillianav&show_icons=true&theme=github_dark&hide_border=false&border_color=1f2937&bg_color=0d1117&title_color=60a5fa&text_color=e5e7eb&icon_color=60a5fa" width="78%" alt="Brillian AV GitHub stats" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brillianav&layout=compact&theme=github_dark&hide_border=false&border_color=1f2937&bg_color=0d1117&title_color=60a5fa&text_color=e5e7eb" width="58%" alt="Brillian AV top languages" />
 
 </div>
 
