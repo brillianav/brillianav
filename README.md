@@ -79,6 +79,9 @@ Here are a few websites from my portfolio:
 
 | Project | Type |
 |---|---|
+| [Namjestaj.pro](https://namjestaj.pro/) | Business website |
+| [Bitesandbeyond.eu](https://bitesandbeyond.eu) | Business website |
+| [Melittaslovenija.si](https://melittaslovenija.si/) | Business website |
 | [Optimumvtc.hr](https://optimumvtc.hr) | Business website |
 | [Inovact.si](https://inovact.si) | Business website |
 | [Romita.si](https://romita.si) | Business website |
